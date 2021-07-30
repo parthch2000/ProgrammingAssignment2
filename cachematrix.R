@@ -2,7 +2,6 @@
 ## functions do
 
 ## The first function, makeCacheMatrix creates a special "matrix", which is really a list containing a function to
-
 ## set the value of the matrix
 ## get the value of the matrix
 ## setinverse assigns the value of inverse matrix
